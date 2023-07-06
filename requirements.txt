@@ -1,5 +1,5 @@
 pandas
 matplotlib == 3.7.2
 requests
-json
+json == 3.11.4
 numpy
