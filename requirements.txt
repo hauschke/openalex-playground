@@ -2,3 +2,5 @@ pandas
 matplotlib == 3.7.2
 requests
 numpy
+seaborn
+networkx
